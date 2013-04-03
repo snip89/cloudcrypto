@@ -4,6 +4,3 @@
 [submodule "src/core"]
 	path = src/core
 	url = git://github.com/snip89/cloudcrypto-core.git
-[submodule "tests"]
-	path = tests
-	url = git://github.com/snip89/cloudcrypto-tests.git
